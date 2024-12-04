@@ -182,8 +182,8 @@ const workExperiences = {
       role: "Cyber-Security and Compliance Intern",
       company: "Traydstream Inc.", 
       companylogo: require("./assets/images/traydstream.jpeg"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "Dec 2021 - Jan 2022",
+      desc: "Implemented encryption policies to secure financial document transmission and conducted research on global compliance regulations. Collaborated across teams to assess cybersecurity protocols, reducing compliance risks by 15%."
     }
   ]
 };
