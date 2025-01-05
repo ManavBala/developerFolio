@@ -17,7 +17,7 @@ export default function Research() {
               <div className="experience-cards-div">
                 {research.experience.map((card, i) => {
                   return (
-                    <ExperienceCard
+                    <ResearchCard
                       key={i}
                       isDark={isDark}
                       cardInfo={{
