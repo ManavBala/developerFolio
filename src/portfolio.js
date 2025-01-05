@@ -144,7 +144,7 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Full Stack Development", //Insert stack or technology you have experience in
+      Stack: "AI-driven Solutions", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
