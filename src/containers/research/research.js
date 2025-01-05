@@ -1,6 +1,6 @@
 import React, {useContext} from "react";
 import "./research.scss";
-import ExperienceCard from "../../components/experienceCard/ExperienceCard";
+import ExperienceCard from "../../components/researchCard/ResearchCard";
 import {research} from "../../portfolio";
 import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
@@ -11,7 +11,7 @@ export default function Research() {
     return (
       <div id="experience">
         <Fade bottom duration={1000} distance="20px">
-          <div className="experience-container" id="research">
+          <div className="experience-container" id="workExperience">
             <div>
               <h1 className="experience-heading">Experiences</h1>
               <div className="experience-cards-div">
