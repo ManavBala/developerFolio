@@ -188,6 +188,27 @@ const workExperiences = {
   ]
 };
 
+const research = {
+  display: true, //Set it to true to show workExperiences Section
+  experience: [
+    {
+      role: "CV Intern",
+      company: "Yu Labs",
+      desc: "Orchestrated a Kubernetes (K3S) cloud infrastructure on AWS with Pulumi automation, integrating PostgreSQL RDS for state management, and optimized GPU utilization and load balancing using AWS Gateway and Ingress controllers for AI model training and data analytics.",
+    },
+    {
+      role: "CV Intern",
+      company: "Garg Group",
+      desc: "Managed system administration and operations for critical services like Illinois Campus Cluster, Illinois Computes, and Delta, ensuring optimal performance. Efficiently handled JIRA ticket management, resolved technical issues, and maintained detailed technical documentation and best practices."
+    },
+    {
+      role: "Infra Intern",
+      company: "CRG", 
+      desc: "Implemented encryption policies to secure financial document transmission and conducted research on global compliance regulations. Collaborated across teams to assess cybersecurity protocols, reducing compliance risks by 15%."
+    }
+  ]
+};
+
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
