@@ -403,6 +403,7 @@ export {
   educationInfo,
   techStack,
   workExperiences,
+  research,
   openSource,
   bigProjects,
   achievementSection,
